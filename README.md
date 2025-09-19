@@ -1,7 +1,5 @@
 #  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFwYjZ3bW0wMTQ0N3VueDIwbHVka2dwM3J3MmM4cTl1emp6aXBycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FxAYkQqdw63hC/giphy.gif" width="200"/> Hola! Soy Armando queriendo mejorar:D
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Armando Valdez
-=======================================================================================================================================
 
 Esta son un poco de mis habilidades
 
